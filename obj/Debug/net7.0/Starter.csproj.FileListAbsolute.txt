@@ -1,0 +1,15 @@
+D:\Repositories\DebuggingChallengeProject\Starter\bin\Debug\net7.0\Starter.exe
+D:\Repositories\DebuggingChallengeProject\Starter\bin\Debug\net7.0\Starter.deps.json
+D:\Repositories\DebuggingChallengeProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+D:\Repositories\DebuggingChallengeProject\Starter\bin\Debug\net7.0\Starter.dll
+D:\Repositories\DebuggingChallengeProject\Starter\bin\Debug\net7.0\Starter.pdb
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.dll
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.pdb
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+D:\Repositories\DebuggingChallengeProject\Starter\obj\Debug\net7.0\ref\Starter.dll
